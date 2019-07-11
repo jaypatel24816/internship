@@ -1,0 +1,11 @@
+- Change index.html to page name and set link as per the page
+- add meta tage for responsive
+- Set slider text in middle for all resolution
+- Set space between two btn in slider for mobile
+- Set hover effect for all button
+- 'WHAT OUR CUSTOMERS THINK' text cut for this section in mobile need to visible all text
+- remove horizontal scroll for all resolution
+- Remove fix height for 'contact_details' section in header
+- Contact page under the text I WANT TO... ask a question, get a quote... are tabs form need to change on click tabs
+- Product detail page plus, minus icon disturb
+- Slider arrows need to be in center
